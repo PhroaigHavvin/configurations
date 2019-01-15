@@ -1,4 +1,3 @@
-execute pathogen#infect()
 filetype plugin indent on
 set ruler
 set showcmd
@@ -10,4 +9,3 @@ nmap <space> :
 imap jj <esc>
 syntax on
 colorscheme delek
-
